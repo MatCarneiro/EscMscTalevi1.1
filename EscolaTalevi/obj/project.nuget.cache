@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RbtmaiImiXGFBQ4TAaPi22RBK3pfUST7yXO/IpNT3QM6wjqLyvVxU7EqWUe7tDupmkT3CDoBCDJjYXd7zbQRvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\Documents\\dev.mobile\\escMsc\\EscolaTalevi\\EscolaTalevi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
